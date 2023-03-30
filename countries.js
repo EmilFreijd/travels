@@ -1,0 +1,25 @@
+// Use ISO alpha-3 country codes, see e.g. https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3
+COUNTRIES =
+{
+    ARE: {fillKey: 'visited'},
+    BEL: {fillKey: 'visited'},
+    CHN: {fillKey: 'visited'},
+    DEU: {fillKey: 'visited'},
+    DNK: {fillKey: 'visited'},
+    EGY: {fillKey: 'visited'},
+    ESP: {fillKey: 'visited'},
+    FRA: {fillKey: 'visited'},
+    GRC: {fillKey: 'visited'},
+    ISR: {fillKey: 'visited'},
+    ITA: {fillKey: 'visited'},
+    MCO: {fillKey: 'visited'},
+    NLD: {fillKey: 'visited'},
+    NOR: {fillKey: 'visited'},
+    PER: {fillKey: 'visited'},
+    POL: {fillKey: 'visited'},
+    PSE: {fillKey: 'visited'},
+    SWE: {fillKey: 'visited'},
+    THA: {fillKey: 'visited'},
+    USA: {fillKey: 'visited'},
+    VAT: {fillKey: 'visited'},
+}
